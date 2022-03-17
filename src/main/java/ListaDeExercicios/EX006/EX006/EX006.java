@@ -1,4 +1,4 @@
-package ListaDeExercicios.EX006;
+package ListaDeExercicios.EX006.EX006;
 
 import java.util.Scanner;
 
