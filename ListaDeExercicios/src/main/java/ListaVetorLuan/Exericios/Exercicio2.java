@@ -1,6 +1,6 @@
 package Exericios;
 
-import jdk.swing.interop.SwingInterOpUtils;
+
 
 public class Exercicio2 {
 
