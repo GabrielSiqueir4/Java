@@ -1,9 +1,8 @@
-package Lista.Array.EX001.ex001;
+package Exercicios.curso.Array.Lista;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-import java.util.Scanner;
 
 public class ex005 {
     public static void main(String[] args) {

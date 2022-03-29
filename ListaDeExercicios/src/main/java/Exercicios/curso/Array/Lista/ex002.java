@@ -1,4 +1,4 @@
-package Lista.Array.EX001.ex001;
+package Exercicios.curso.Array.Lista;
 
 import java.util.ArrayList;
 import java.util.List;
