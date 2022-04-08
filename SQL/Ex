@@ -1,0 +1,8 @@
+CREATE TABLE pessoas(
+nome varchar(30),
+idade integer,
+sexo varchar(2),
+peso float,
+altura float,
+nacionalidade varchar(20)
+);
