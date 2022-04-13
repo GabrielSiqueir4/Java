@@ -1,4 +1,4 @@
-public class Aluno extends SerHumano {
+public class Aluno extends SerHumano { //herdou de ser humano que é a classe pricipal
     private int registroAcademico;
     private String curso;
     private String turno;

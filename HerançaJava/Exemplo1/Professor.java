@@ -1,16 +1,8 @@
-public class Professor extends SerHumano {  //extendeu da classe ser humano
-    private int codigo;
+public class Professor extends Funcionario { // extendeu da classe ser humano
+
     private String formacao;
     private String curso;
     private int nrHoras;
-
-    public int getCodigo() {
-        return codigo;
-    }
-
-    public void setCodigo(int codigo) {
-        this.codigo = codigo;
-    }
 
     public String getFormacao() {
         return formacao;
