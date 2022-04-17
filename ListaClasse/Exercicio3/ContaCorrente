@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class ContaCorrente {
+
+    String comando;
+    Scanner sc = new Scanner(System.in);
+
+    public ContaCorrente(int numero, double saldo, String status, String deposito, String chequeespecial, double saque) {
+
+        switch (comando) {
+
+            case "numero":
+                System.out.println(" Conta possui Numero : " + numero);
+                this.numero = sc.nextInt();
+                break;
+
+            case "saldo":
+                System.out.println(" Conta possui Saldo : " + saldo);
+                this.informarMatricula = saldo;
+                matricula = sc.nextInt();
+                break;
+
+            case "status":
+                System.out.println(" Conta possui Status : " + status);
+                this.status = sc.nextInt();
+                break;
+
+            case "chequeespecial":
+                System.out.println(" Conta possui Cheque Especial : " + chequeespecial);
+                this.chequeespecial = sc.nextInt();
+                break;
+
+            case "limite":
+                System.out.println(" Conta possui Limite : " + limite);
+                this.limite = sc.nextInt();
+                break;
+
+            case "deposito":
+                System.out.println(" Conta possui Deposito : " + deposito);
+                this.deposito = sc.nextInt();
+                break;
+
+        }
+    }
+}
