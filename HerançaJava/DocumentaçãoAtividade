@@ -1,0 +1,3 @@
+Classe SerHumano é as classes principal e as classes professor, aluno e funcioraios sao herdados dela.
+
+classes Endereço, municipio e Estado são complementos herdados uma da outra.
