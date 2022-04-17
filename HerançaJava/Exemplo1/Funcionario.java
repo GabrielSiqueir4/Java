@@ -5,7 +5,7 @@ public class Funcionario {
     private String cargo;
     private String horario;
     private Date dataAdmissao;
-    private double salario; 
+    private double salario;
 
     public Funcionario(int codigoFuncionario, String cargo, String horario, Date dataAdmissao, double salario) {
         this.codigoFuncionario = codigoFuncionario;
@@ -47,13 +47,10 @@ public class Funcionario {
         this.dataAdmissao = dataAdmissao;
     }
 
-
-    
     public double getSalario() {
         return salario;
     }
 
-    
     public void setSalario(double salario) {
         this.salario = salario;
     }

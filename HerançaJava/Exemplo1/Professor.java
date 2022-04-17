@@ -1,14 +1,14 @@
-import java.sql.Date;
 
-public class Professor extends Funcionario { // extendeu da classe ser humano
-
+public class Professor extends SerHumano { // extendeu da classe ser humano
+    private String codigoProfessor;
     private String formacao;
     private String curso;
     private int nrHoras;
 
-    public Professor(int codigoFuncionario, String cargo, String horario, Date dataAdmissao, double salario,
-            String formacao, String curso, int nrHoras) {
-        super(codigoFuncionario, cargo, horario, dataAdmissao, salario);
+    public Professor(){
+
+    }
+    public Professor(String formacao, String curso, int nrHoras) {
         this.formacao = formacao;
         this.curso = curso;
         this.nrHoras = nrHoras;
@@ -37,5 +37,14 @@ public class Professor extends Funcionario { // extendeu da classe ser humano
     public void setNrHoras(int nrHoras) {
         this.nrHoras = nrHoras;
     }
+    public boolean ValidaCodigo(){
+       
+        if(this.codigoProfessor == null){
+            return false;
+        }else{
+            return true;
+        }
+    }
 
 }
+
