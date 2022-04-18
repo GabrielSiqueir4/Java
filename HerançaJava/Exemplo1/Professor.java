@@ -1,8 +1,18 @@
+import java.sql.Date;
+
 public class Professor extends Funcionario { // extendeu da classe ser humano
 
     private String formacao;
     private String curso;
     private int nrHoras;
+
+    public Professor(int codigoFuncionario, String cargo, String horario, Date dataAdmissao, String formacao,
+            String curso, int nrHoras) {
+        super(codigoFuncionario, cargo, horario, dataAdmissao);
+        this.formacao = formacao;
+        this.curso = curso;
+        this.nrHoras = nrHoras;
+    }
 
     public String getFormacao() {
         return formacao;
