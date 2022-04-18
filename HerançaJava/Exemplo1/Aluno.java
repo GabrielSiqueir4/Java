@@ -43,4 +43,17 @@ public class Aluno extends SerHumano { //herdou de ser humano que é a classe pr
         this.periodo = periodo;
     }
 
+
+    public Aluno(int registroAcademico) {
+        this.registroAcademico = registroAcademico;
+    }
+
+    public boolean ValidaCodigo(){
+        
+        if(this.registroAcademico == 0){
+            return false;
+        }else{
+            return true;
+        }
+    }
 }

@@ -1,4 +1,4 @@
-public class SerHumano {
+public abstract class SerHumano {
     private String nome;
     private String cfp;
     private String rg;
@@ -37,5 +37,8 @@ public class SerHumano {
     public void setRg(String rg) {
         this.rg = rg;
     }
+
+    public abstract boolean ValidaCodigo(); //nao pode ter implementação em metodo abstrato
+
 
 }
