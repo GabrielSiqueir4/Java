@@ -16,6 +16,17 @@ public class Municipio {
     @Column(length = 400, nullable = false)
     private String nome;
 
+    @ManyToOne
+    private Estado estado;
+
+    public Estado getEstado() {
+        return estado;
+    }
+
+    public void setEstado(Estado estado) {
+        this.estado = estado;
+    }
+
     public long getId() {
         return id;
     }
@@ -48,4 +59,6 @@ public class Municipio {
                 ", nome='" + nome + '\'' +
                 '}';
     }
+
+
 }
