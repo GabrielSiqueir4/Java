@@ -4,103 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b78c7491-c64b-457b-9aa6-9ac50063c482" name="Changes" comment="Exercicio9">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Exercicios/ex001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Exercicios/ex002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Exercicios/ex003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/Lista/Array/EX001/ex001/ex006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex001/EX001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex002/EX002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex003/EX03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex004/EX004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex005/EX005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaDeExercicios/EX001/ex006/EX006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan/Exericios/Exercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex001/ex001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex002/EX002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex003/ex003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex004/ex004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex005/ex005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex006/ex006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex007/ex007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetores/Vetor/EX001/ex008/ex008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Exercicios/ex001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Exercicios/ex002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Exercicios/ex003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/Lista/Array/EX001/ex001/ex006.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex001/EX001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex002/EX002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex003/EX03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex004/EX004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex005/EX005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaDeExercicios/EX001/ex006/EX006.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex001/ex001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex002/EX002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex003/ex003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex004/ex004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex005/ex005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex006/ex006.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex007/ex007.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeExercicios/target/classes/ListaVetores/Vetor/EX001/ex008/ex008.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListaDeExercicios/EX006/EX11/ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListaDeExercicios/EX006/ex14/ex14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaDeExercicios/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaDeExercicios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeExercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaDeExercicios/EX006/EX007/EX007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaDeExercicios/EX006/EX008/EX08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaDeExercicios/EX006/EX009/EX009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaDeExercicios/EX006/EX10/EX10.class" beforeDir="false" />
+    <list default="true" id="fa16c036-0cc7-4f48-9afc-138bd7e556de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conexão com Banco De Dados/FaculdadeBD/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conexão com Banco De Dados/FaculdadeBD/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="26VrCIfHaxSkfz6nrbnBEg1Ck0C" />
+  <component name="ProjectId" id="28OpNVusWnIqbDSsc2aBi9hCGMH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -109,141 +26,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ListaDeExercicios/src/main/java/ListaVetorLuan" />
-  </component>
-  <component name="RunManager" selected="Application.EX10">
-    <configuration name="EX006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.EX006.EX006.EX006" />
-      <module name="Dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeExercicios.EX006.EX006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.EX006.EX007.EX007" />
-      <module name="Dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeExercicios.EX006.EX007.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.EX006.EX009.EX009" />
-      <module name="Dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeExercicios.EX006.EX009.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.EX006.EX008.EX08" />
-      <module name="Dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeExercicios.EX006.EX008.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.EX006.EX10.EX10" />
-      <module name="Dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeExercicios.EX006.EX10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EX10" />
-        <item itemvalue="Application.EX009" />
-        <item itemvalue="Application.EX08" />
-        <item itemvalue="Application.EX007" />
-        <item itemvalue="Application.EX006" />
-      </list>
-    </recent_temporary>
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b78c7491-c64b-457b-9aa6-9ac50063c482" name="Changes" comment="" />
-      <created>1647519467214</created>
+      <changelist id="fa16c036-0cc7-4f48-9afc-138bd7e556de" name="Changes" comment="" />
+      <created>1651097388932</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647519467214</updated>
+      <updated>1651097388932</updated>
+      <workItem from="1651097391513" duration="49000" />
+      <workItem from="1651097454883" duration="15000" />
     </task>
-    <task id="LOCAL-00001" summary="Exercicio6">
-      <created>1647521197640</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1647521197640</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Exercicio7">
-      <created>1647528960885</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647528960885</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Exercicio7">
-      <created>1647529031849</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1647529031849</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Exercicio7">
-      <created>1647535481804</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1647535481805</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Exercicio8">
-      <created>1647536265833</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1647536265833</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Exercicio9">
-      <created>1647537824022</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1647537824022</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -255,12 +56,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercicio6" />
-    <MESSAGE value="Exercicio7" />
-    <MESSAGE value="Exercicio8" />
-    <MESSAGE value="Exercicio9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio9" />
   </component>
 </project>
