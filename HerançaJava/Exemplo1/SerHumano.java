@@ -2,7 +2,7 @@ public abstract class SerHumano {
     private String nome;
     private String cfp;
     private String rg;
-    private Endereco endereco; // erdou da classe endereco
+    private Endereco endereco; // erdou da classe endereco //imprimivel ser humano 
 
 
     
